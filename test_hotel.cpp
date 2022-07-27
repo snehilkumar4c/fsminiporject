@@ -103,7 +103,7 @@ fin.read((char*)this,sizeof(hotel));
 if(room_no==r)
 {
 // clrscr();
-cout<<"\n Cusromer Details";
+cout<<"\n Customer Details";
 cout<<"\n ****************";
 cout<<"\n\n Room no: "<<room_no;
 cout<<"\n Name: "<<name;
